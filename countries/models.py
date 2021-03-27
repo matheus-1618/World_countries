@@ -4,8 +4,8 @@ from django.db import models
 
 #Creating our first model
 class Countries(models.Model):
-    name= models.CharField(max_lenght=50,blank=False,default='')
-    capital= models.CharField(max_lenght=50,blank=False,default='')
+    name= models.CharField(max_length=50,blank=False,default='')
+    capital= models.CharField(max_length=50,blank=False,default='')
 
     class Meta:
         ordering=('id',)

@@ -1,2 +1,3 @@
 # World_countries
-Project of a API using Python,Jungle and sqlite3
+My first Project of a API using Python,Django and sqlite3.
+Mostly of this resources are available on web.
